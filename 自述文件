@@ -5,6 +5,7 @@
 自定赋予字段属性和命名
 表单设计即创即可使用
 
+
 源码：
 目前比较流行的扁平化响应式的设计风格，可以完美兼容电脑，pad，手机等
 
@@ -15,6 +16,26 @@
 严格遵循了web安全的规范，前后台双重验证，参数编码传输，密码md5加密存储，shiro权限验证，从根本上避免了SQL注入，XSS攻击，CSRF攻击等常见的web攻击手段。
 
 
+技术选型:
+Springboot 2.0+
+mybatis plus
+spring security
+redis
+flowable
+qutarz
+spring webscoket
+vue
+element ui
+es6
+webpack
+
+
+前端：
+vue
+elementUI
+
+
+
 功能：
 
 
@@ -22,14 +43,7 @@
 
 站内信系统，app接口，二维码生成等基础模块
 
-
 支持多种数据模型且后期导入导出
-
-
-
-
-
-
 
 
 
